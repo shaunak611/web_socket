@@ -1,5 +1,5 @@
 {
-  "name": "tcp_demo",
+  "name": "web_socket",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
